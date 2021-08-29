@@ -21,5 +21,5 @@ Untuk Front-End menggunakan typescript.
 Data penting seperti data voucher, data pengguna, dan data transaksi disimpan di dalam database yaitu mongodb.
 
 ```bash
-Website ini saya dapatkan dengan mengikuti kelas/kursus online di perusahaan bidang IT yaitu Buildwith Angga.
+Website ini saya buat dengan mengikuti panduan pada kelas/kursus online di perusahaan bidang IT yaitu Buildwith Angga.
 ```
